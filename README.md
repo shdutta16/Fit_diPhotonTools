@@ -28,12 +28,20 @@ Steps to run:
 9. Go to the directory LowMET
 
 10. In order to avoid confusion please delete these existing directories and files. 
+    
     a) directory: ntuples4fit_pho_newSig_test_met50_met130_cic_default_shapes_lumi_59.69
+    
     b) files: i)   ntuples4fit_pho_newSig_test_met50_met130_cic_final_ws_MonoHgg.log
+    
        	      ii)  ntuples4fit_pho_newSig_test_met50_met130_cic_final_ws_MonoHgg.root
-	      iii) bands_met0.root	
+	      
+	      iii) bands_met0.root
+	      
 	      iv)  bands_met130.root
+	      
 	      v)   limits_2HDMa_ma1502HDMa.pdf/.png/.root
+	      
+	      
 
 11. Now run these commands: (NOTE: Before running each .sh script please change the paths appropriately)
     
