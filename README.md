@@ -14,9 +14,12 @@ Steps to run:
 
 6. Go to diphotons/Analysis/macros/
 
-7. Here you will see two directories. 2017_2HDMa_EOY and 2018_2HDMa_EOY.
-   2017_2HDMa_EOY contains the 2018 analysis with the old MET binning viz. LowMET (50-130) and HighMET (>130).
+7. Here you will see two directories. 2017_2HDMa_EOY and 2018_2HDMa_EOY. 
+
+   2017_2HDMa_EOY contains the 2018 analysis with the old MET binning viz. LowMET (50-130) and HighMET (>130). 
+   
    2018_2HDMa_EOY contains the 2018 analysis with the current MET binning viz. LowMET (50-100) and HighMET (100-130).
+
 
 8. For working with the old MET binning go to the directory 2017_2HDMa_EOY. You will find 3 directories here: a) LowMET  b) HighMET  c) Combined_LowMET_HighMET
 
