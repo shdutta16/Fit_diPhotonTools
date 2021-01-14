@@ -1,0 +1,349 @@
+Warning in <TInterpreter::ReadRootmapFile>: class  RooStarMomentMorph found in libdiphotonsRooUtils.so  is already in libHiggsAnalysisCombinedLimit.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  edm::Ptr<pat::PackedGenParticle> found in libDataFormatsPatCandidates.so  is already in libflashggDataFormats.so 
+TColor::TColor:0: RuntimeWarning: color 5974 already defined
+TClass::Init:0: RuntimeWarning: no dictionary for class ROOT::TIOFeatures is available
+inside only_subset 
+Taking fit names from templates_maker_prepare_MonoHgg.json
+name in fits =  cic
+name in fits =  singlePho
+name in fits =  cic2016
+name in fits =  2D
+name in fits =  cicTestR9
+name in fits =  cic0T
+name in fits =  cic3
+name in fits =  cic2
+after only_subset if condition
+options.read_ws=False
+Everything is happening here using self.prepareTemplates
+ntuples4fit_pho_newSig_test_met50_met100_met130_cic_final_ws_MonoHgg.root
+
+ Taking from json file 
+ options.data_file = Output_Data.root 
+ options.data =[u'Data_13TeV:__infile__/%(sel)s'] 
+ options.infile = None 
+ options.templates = [u'Data_13TeV:__infile__/%(sel)s']
+ options.prep_data = False 
+ options.mc_file = Output_MC.root
+ options.mc = [u'DiPhoton_13TeV:__infile__/genmc', u'DYJetsToLL_13TeV:__infile__/genmc', u'GJets_13TeV:__infile__/genmc', u'QCD_13TeV:__infile__/genmc', u'TTGJets_13TeV:__infile__/genmc', u'TTGG_0Jets_13TeV:__infile__/genmc', u'TTJets_13TeV:__infile__/genmc', u'TGJets_13TeV:__infile__/genmc', u'TTWJetsToLNu_13TeV:__infile__/genmc']
+ options.templatesMC = [u'DiPhoton_13TeV:__infile__/genmc', u'DYJetsToLL_13TeV:__infile__/genmc', u'GJets_13TeV:__infile__/genmc', u'QCD_13TeV:__infile__/genmc', u'TTGJets_13TeV:__infile__/genmc', u'TTGG_0Jets_13TeV:__infile__/genmc', u'TTJets_13TeV:__infile__/genmc', u'TGJets_13TeV:__infile__/genmc', u'TTWJetsToLNu_13TeV:__infile__/genmc'] 
+ options.prep_nosig = False 
+ options.prep_nohiggs = False 
+ options.prep_noggh = False 
+ options.prep_novbf = False 
+ options.prep_novh = False 
+ options.prep_notth = False 
+
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root
+self.datsets_ = {'templates': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root") at 0x4782db0>, [u'Data_13TeV:__infile__/%(sel)s']), u'sig_2HDMa_mA200_ma150_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'sig_2HDMa_mA200_ma150_13TeV:__infile__/genmc']), u'sig_2HDMa_mA500_ma150_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'sig_2HDMa_mA500_ma150_13TeV:__infile__/genmc']), u'VHToGG_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'VHToGG_13TeV:__infile__/genmc']), u'sig_2HDMa_mA300_ma150_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'sig_2HDMa_mA300_ma150_13TeV:__infile__/genmc']), 'mc': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'DiPhoton_13TeV:__infile__/genmc', u'DYJetsToLL_13TeV:__infile__/genmc', u'GJets_13TeV:__infile__/genmc', u'QCD_13TeV:__infile__/genmc', u'TTGJets_13TeV:__infile__/genmc', u'TTGG_0Jets_13TeV:__infile__/genmc', u'TTJets_13TeV:__infile__/genmc', u'TGJets_13TeV:__infile__/genmc', u'TTWJetsToLNu_13TeV:__infile__/genmc']), u'sig_2HDMa_mA400_ma150_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'sig_2HDMa_mA400_ma150_13TeV:__infile__/genmc']), 'templatesMC': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'DiPhoton_13TeV:__infile__/genmc', u'DYJetsToLL_13TeV:__infile__/genmc', u'GJets_13TeV:__infile__/genmc', u'QCD_13TeV:__infile__/genmc', u'TTGJets_13TeV:__infile__/genmc', u'TTGG_0Jets_13TeV:__infile__/genmc', u'TTJets_13TeV:__infile__/genmc', u'TGJets_13TeV:__infile__/genmc', u'TTWJetsToLNu_13TeV:__infile__/genmc']), u'VBFHToGG_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'VBFHToGG_13TeV:__infile__/genmc']), u'sig_2HDMa_mA600_ma150_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'sig_2HDMa_mA600_ma150_13TeV:__infile__/genmc']), u'GluGluHToGG_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'GluGluHToGG_13TeV:__infile__/genmc']), u'ttHJetToGG_13TeV': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>, [u'ttHJetToGG_13TeV:__infile__/genmc']), 'data': (<ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root") at 0x4782db0>, [u'Data_13TeV:__infile__/%(sel)s'])} 
+
+self.template_ = trees/%(sample)s_%(cat)s
+self.groups = {u'met100_130': [u'met100_130'], u'met50_100': [u'met50_100']}
+self.categories_ = [u'met100_130', u'met50_100']
+self.workspace_ = <ROOT.RooWorkspace object ("wtemplates") at 0x47743a0>
+options.aliases = [u'phoIsEB    := abs(leadScEta) < 1.5', u'phoIsSB    := phoIsEB', u'leadIsEB    := abs(leadScEta) < 1.5', u'subleadIsEB := abs(subleadScEta) < 1.5', u'leadIsSB := leadIsEB', u'subleadIsSB := subleadIsEB', u'leadPrompt    := leadIsEB', u'leadFake      := ! leadPrompt', u'subleadPrompt := subleadIsEB', u'subleadFake   := ! subleadPrompt', u'phoPrompt := leadIsEB', u'phoFake   := ! phoPrompt', u'phoPhoIsoEB    := leadIsEB', u'subleadPhoIsoEB    := subleadIsEB', u'leadPhoIsoEB    :=leadIsEB', u'leadEcorr := 0.001*leadPt', u'subleadEcorr := 0.001*subleadPt', u'massCorr := sqrt(leadEcorr*subleadEcorr)', u'leadMatchType:= leadIsEB', u'subleadMatchType:= subleadIsEB', u'mgg := mass', u'mggEBEB := mass*massCorr', u'mggEBEE := mass*massCorr']
+seelf.aliases_ = {}
+var = phoIsEB    := abs(leadScEta) < 1.5
+name = phoIsEB    := abs(leadScEta) < 1.5
+name = phoIsEB vdef = abs(leadScEta) < 1.5
+name = phoIsEB & xbins = [] 
+var = phoIsSB    := phoIsEB
+name = phoIsSB    := phoIsEB
+name = phoIsSB vdef = phoIsEB
+name = phoIsSB & xbins = [] 
+var = leadIsEB    := abs(leadScEta) < 1.5
+name = leadIsEB    := abs(leadScEta) < 1.5
+name = leadIsEB vdef = abs(leadScEta) < 1.5
+name = leadIsEB & xbins = [] 
+var = subleadIsEB := abs(subleadScEta) < 1.5
+name = subleadIsEB := abs(subleadScEta) < 1.5
+name = subleadIsEB vdef = abs(subleadScEta) < 1.5
+name = subleadIsEB & xbins = [] 
+var = leadIsSB := leadIsEB
+name = leadIsSB := leadIsEB
+name = leadIsSB vdef = leadIsEB
+name = leadIsSB & xbins = [] 
+var = subleadIsSB := subleadIsEB
+name = subleadIsSB := subleadIsEB
+name = subleadIsSB vdef = subleadIsEB
+name = subleadIsSB & xbins = [] 
+var = leadPrompt    := leadIsEB
+name = leadPrompt    := leadIsEB
+name = leadPrompt vdef = leadIsEB
+name = leadPrompt & xbins = [] 
+var = leadFake      := ! leadPrompt
+name = leadFake      := ! leadPrompt
+name = leadFake vdef = ! leadPrompt
+name = leadFake & xbins = [] 
+var = subleadPrompt := subleadIsEB
+name = subleadPrompt := subleadIsEB
+name = subleadPrompt vdef = subleadIsEB
+name = subleadPrompt & xbins = [] 
+var = subleadFake   := ! subleadPrompt
+name = subleadFake   := ! subleadPrompt
+name = subleadFake vdef = ! subleadPrompt
+name = subleadFake & xbins = [] 
+var = phoPrompt := leadIsEB
+name = phoPrompt := leadIsEB
+name = phoPrompt vdef = leadIsEB
+name = phoPrompt & xbins = [] 
+var = phoFake   := ! phoPrompt
+name = phoFake   := ! phoPrompt
+name = phoFake vdef = ! phoPrompt
+name = phoFake & xbins = [] 
+var = phoPhoIsoEB    := leadIsEB
+name = phoPhoIsoEB    := leadIsEB
+name = phoPhoIsoEB vdef = leadIsEB
+name = phoPhoIsoEB & xbins = [] 
+var = subleadPhoIsoEB    := subleadIsEB
+name = subleadPhoIsoEB    := subleadIsEB
+name = subleadPhoIsoEB vdef = subleadIsEB
+name = subleadPhoIsoEB & xbins = [] 
+var = leadPhoIsoEB    :=leadIsEB
+name = leadPhoIsoEB    :=leadIsEB
+name = leadPhoIsoEB vdef = leadIsEB
+name = leadPhoIsoEB & xbins = [] 
+var = leadEcorr := 0.001*leadPt
+name = leadEcorr := 0.001*leadPt
+name = leadEcorr vdef = 0.001*leadPt
+name = leadEcorr & xbins = [] 
+var = subleadEcorr := 0.001*subleadPt
+name = subleadEcorr := 0.001*subleadPt
+name = subleadEcorr vdef = 0.001*subleadPt
+name = subleadEcorr & xbins = [] 
+var = massCorr := sqrt(leadEcorr*subleadEcorr)
+name = massCorr := sqrt(leadEcorr*subleadEcorr)
+name = massCorr vdef = sqrt(leadEcorr*subleadEcorr)
+name = massCorr & xbins = [] 
+var = leadMatchType:= leadIsEB
+name = leadMatchType:= leadIsEB
+name = leadMatchType vdef = leadIsEB
+name = leadMatchType & xbins = [] 
+var = subleadMatchType:= subleadIsEB
+name = subleadMatchType:= subleadIsEB
+name = subleadMatchType vdef = subleadIsEB
+name = subleadMatchType & xbins = [] 
+var = mgg := mass
+name = mgg := mass
+name = mgg vdef = mass
+name = mgg & xbins = [] 
+var = mggEBEB := mass*massCorr
+name = mggEBEB := mass*massCorr
+name = mggEBEB vdef = mass*massCorr
+name = mggEBEB & xbins = [] 
+var = mggEBEE := mass*massCorr
+name = mggEBEE := mass*massCorr
+name = mggEBEE vdef = mass*massCorr
+name = mggEBEE & xbins = [] 
+now self.aliases_ = {u'phoFake': u'! phoPrompt', u'leadFake': u'! leadPrompt', u'leadPrompt': u'leadIsEB', u'subleadPrompt': u'subleadIsEB', u'leadPhoIsoEB': u'leadIsEB', u'leadIsSB': u'leadIsEB', u'phoIsSB': u'phoIsEB', u'phoPhoIsoEB': u'leadIsEB', u'leadMatchType': u'leadIsEB', u'mgg': u'mass', u'leadIsEB': u'abs(leadScEta) < 1.5', u'subleadIsEB': u'abs(subleadScEta) < 1.5', u'phoIsEB': u'abs(leadScEta) < 1.5', u'leadEcorr': u'0.001*leadPt', u'phoPrompt': u'leadIsEB', u'subleadFake': u'! subleadPrompt', u'subleadPhoIsoEB': u'subleadIsEB', u'massCorr': u'sqrt(leadEcorr*subleadEcorr)', u'subleadMatchType': u'subleadIsEB', u'subleadEcorr': u'0.001*subleadPt', u'subleadIsSB': u'subleadIsEB', u'mggEBEE': u'mass*massCorr', u'mggEBEB': u'mass*massCorr'} 
+self.variables_ = {u'phoFake': [], u'leadFake': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = weight
+name = weight & xbins = [] 
+name = weight
+weight
+weight = weight 
+ varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+[u'rho', u'nvtx', u'run', u'lumi', u'event']
+[u'rho', u'nvtx', u'run', u'lumi', u'event', u'weight']
+self.variables_ = {u'weight': [], u'phoFake': [], u'leadFake': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = rho
+name = rho & xbins = [] 
+name = rho binning = []
+varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+self.variables_ = {u'weight': [], u'phoFake': [], u'leadFake': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'rho': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = nvtx
+name = nvtx & xbins = [] 
+name = nvtx binning = []
+varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+self.variables_ = {u'weight': [], u'phoFake': [], u'leadFake': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'nvtx': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'rho': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = run
+name = run & xbins = [] 
+name = run binning = []
+varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+self.variables_ = {u'weight': [], u'phoFake': [], u'leadFake': [], u'run': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'nvtx': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'rho': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = lumi
+name = lumi & xbins = [] 
+name = lumi binning = []
+varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+self.variables_ = {u'weight': [], u'phoFake': [], u'leadFake': [], u'run': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'nvtx': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'rho': [], u'lumi': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = event
+name = event & xbins = [] 
+name = event binning = []
+varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+self.variables_ = {u'weight': [], u'phoFake': [], u'leadFake': [], u'run': [], u'event': [], u'leadPrompt': [], u'subleadPrompt': [], u'leadPhoIsoEB': [], u'leadIsSB': [], u'phoIsSB': [], u'nvtx': [], u'phoPhoIsoEB': [], u'leadMatchType': [], u'mgg': [], u'leadIsEB': [], u'subleadIsEB': [], u'phoIsEB': [], u'rho': [], u'lumi': [], u'leadEcorr': [], u'phoPrompt': [], u'subleadFake': [], u'subleadPhoIsoEB': [], u'massCorr': [], u'subleadMatchType': [], u'subleadEcorr': [], u'subleadIsSB': [], u'mggEBEE': [], u'mggEBEB': []}
+name = weight
+name = weight binning = []
+varlist = <ROOT.RooArgList object at 0x48e33c0> 
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Preparing fit cic
+
+variables = [u'mgg', u'massCorr', u'mggEBEB', u'mggEBEE', u'mggGen:=mgg', u'leadPt', u'subleadPt', u'leadEta', u'subleadEta', u'leadMatchType', u'subleadMatchType']
+name = mgg
+name = massCorr
+name = mggEBEB
+name = mggEBEE
+name = mggGen:=mgg
+name = mggGen vdef = mgg
+name = mggGen & xbins = [] 
+name = leadPt
+name = leadPt & xbins = [] 
+name = subleadPt
+name = subleadPt & xbins = [] 
+name = leadEta
+name = leadEta & xbins = [] 
+name = subleadEta
+name = subleadEta & xbins = [] 
+name = leadMatchType
+name = subleadMatchType
+Will put the following variables in the dataset : 
+RooArgList:: = (rho,nvtx,run,lumi,event,weight,mgg,massCorr,mggEBEB,mggEBEE,mggGen,leadPt,subleadPt,leadEta,subleadEta,leadMatchType,subleadMatchType,templateNdim2Dim0,templateNdim2Dim1)
+Number of dimensions : 2
+Components           : all
+
+Starting prepareTrees
+infile
+Keys: data:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ cic <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root") at 0x4782db0>
+Keys: data:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ cic <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root") at 0x4782db0>
+Got the trees
+Prepared data trees
+dataset - met100_130 128.0
+number of entries data - met100_130 128
+dataset - met50_100 1841.0
+number of entries data - met50_100 1841
+Starting prepareTrees
+infile
+Keys: mc:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: mc:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: sig_2HDMa_mA200_ma150_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: sig_2HDMa_mA200_ma150_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: sig_2HDMa_mA500_ma150_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: sig_2HDMa_mA500_ma150_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: sig_2HDMa_mA300_ma150_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: sig_2HDMa_mA300_ma150_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: sig_2HDMa_mA600_ma150_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: sig_2HDMa_mA600_ma150_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: sig_2HDMa_mA400_ma150_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: sig_2HDMa_mA400_ma150_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: GluGluHToGG_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: GluGluHToGG_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: VBFHToGG_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: VBFHToGG_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: VHToGG_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: VHToGG_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+Starting prepareTrees
+infile
+Keys: ttHJetToGG_13TeV:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Keys: ttHJetToGG_13TeV:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ genmc <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_MC.root") at 0x26647a0>
+Got the trees
+
+truth :  met100_130 all : 1.08e+05 tot : 1.08e+05
+truth :  met50_100 all : 6.888e+05 tot : 6.888e+05
+
+templates
+Starting prepareTrees
+infile
+Keys: templates:cic, Category name: met100_130, Group name: [u'met100_130']
+__infile__ cic <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root") at 0x4782db0>
+Keys: templates:cic, Category name: met50_100, Group name: [u'met50_100']
+__infile__ cic <ROOT.TFile object ("/afs/cern.ch/work/s/shdutta/public/Analysis/MHgg/2018Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2018_2HDMa_EOY/HighMET/ntuples4fit_pho_newSig_test_met50_met100_met130/Output_Data.root") at 0x4782db0>
+Got the trees
+template -pf - met100_130 41.0
+number of entries template pf - met100_130 41
+template -pf - met50_100 669.0
+number of entries template pf - met50_100 669
+
+--------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+reached end of SetUP

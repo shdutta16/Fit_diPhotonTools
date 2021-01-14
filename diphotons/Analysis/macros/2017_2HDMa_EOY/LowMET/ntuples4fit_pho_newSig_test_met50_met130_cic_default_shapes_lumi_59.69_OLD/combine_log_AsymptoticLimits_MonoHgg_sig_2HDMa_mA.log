@@ -1,0 +1,22 @@
+combine -L libdiphotonsUtils -M AsymptoticLimits --run both -n MonoHgg_sig_2HDMa -m 600 -C 0.95 dataCard_sig_2HDMa_mA600_ma150_13TeV.txt
+ <<< Combine >>> 
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Warning in <TInterpreter::ReadRootmapFile>: class  RooStarMomentMorph found in libdiphotonsRooUtils.so  is already in libHiggsAnalysisCombinedLimit.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  edm::Ptr<pat::PackedGenParticle> found in libDataFormatsPatCandidates.so  is already in libflashggDataFormats.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  RooStarMomentMorph found in libdiphotonsRooUtils.so  is already in libHiggsAnalysisCombinedLimit.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  edm::Ptr<pat::PackedGenParticle> found in libDataFormatsPatCandidates.so  is already in libflashggDataFormats.so 
+Warning! -- You haven't picked default values for the Parameters of Interest (either with --expectSignal or --setParameters) for generating toys. Combine will use the 'B-only' ModelConfig to generate, which may lead to undesired behaviour if not using the default Physics Model
+SimNLL created with 2 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 2 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 2 channels, 0 generic constraints, 11 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.8808
+Expected  2.5%: r < 0.8822
+Expected 16.0%: r < 1.1995
+Expected 50.0%: r < 1.7109
+Expected 84.0%: r < 2.4816
+Expected 97.5%: r < 3.4701
+
+Done in 0.04 min (cpu), 0.04 min (real)

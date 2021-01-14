@@ -1,0 +1,1341 @@
+Warning in <TInterpreter::ReadRootmapFile>: class  RooStarMomentMorph found in libHiggsAnalysisCombinedLimit.so  is already in libdiphotonsRooUtils.so 
+Warning in <TInterpreter::ReadRootmapFile>: class  edm::Ptr<pat::PackedGenParticle> found in libDataFormatsPatCandidates.so  is already in libflashggDataFormats.so 
+TClassTable::Add:0: RuntimeWarning: class RooStarMomentMorph already in TClassTable
+TColor::TColor:0: RuntimeWarning: color 5974 already defined
+inside only_subset 
+Taking fit names from templates_maker_prepare_MonoHgg.json
+after only_subset if condition
+inside options.store_new_only
+inside options.read_ws
+
+--------------------------------------------------------------------------------------------------------------------------
+Reading back workspace from ntuples4fit_pho_newSig_test_met0_met130_cic_final_ws_MonoHgg.root 
+
+ntuples4fit_pho_newSig_test_met0_met130_cic_final_ws_MonoHgg.root
+Reading back saved parameter  signals
+Reading back saved parameter  higgs
+Reading back saved parameter  ggh
+Reading back saved parameter  vbf
+Reading back saved parameter  vh
+Reading back saved parameter  tth
+Reading back saved parameter  aliases
+Reading back saved parameter  preselection
+Reading back saved parameter  signals
+Reading back saved parameter  higgs
+Reading back saved parameter  ggh
+Reading back saved parameter  vbf
+Reading back saved parameter  vh
+Reading back saved parameter  tth
+Fits :
+---------------------------------------------------------
+- cic 
+  ndim : 2 
+  components : all
+
+TTrees :
+---------------------------------------------------------
+tree_sig_2HDMa_mA400_ma150_13TeV_cic_met130 :      816
+tree_mc_cic_met0-130           :   267006
+tree_sig_2HDMa_mA400_ma150_13TeV_cic_met0-130 :     1139
+tree_sig_2HDMa_mA500_ma150_13TeV_cic_met130 :     1530
+tree_VHToGG_13TeV_cic_met0-130 :    16921
+tree_mctruth_all_cic_met130    :      192
+tree_mc_cic_met130             :      192
+tree_GluGluHToGG_13TeV_cic_met0-130 :    52232
+tree_sig_2HDMa_mA200_ma150_13TeV_cic_met130 :      336
+tree_template_pf_cic_met130    :       23
+tree_data_cic_met130           :       70
+tree_sig_2HDMa_mA200_ma150_13TeV_cic_met0-130 :      981
+tree_VBFHToGG_13TeV_cic_met130 :       39
+tree_sig_2HDMa_mA600_ma150_13TeV_cic_met0-130 :      513
+tree_sig_2HDMa_mA600_ma150_13TeV_cic_met130 :     1624
+tree_VHToGG_13TeV_cic_met130   :     2979
+tree_sig_2HDMa_mA500_ma150_13TeV_cic_met0-130 :      562
+tree_ttHJetToGG_13TeV_cic_met0-130 :      121
+tree_ttHJetToGG_13TeV_cic_met130 :       71
+tree_data_cic_met0-130         :    28059
+tree_mctruth_all_cic_met0-130  :   267006
+tree_VBFHToGG_13TeV_cic_met0-130 :    58583
+tree_sig_2HDMa_mA300_ma150_13TeV_cic_met130 :       37
+tree_template_pf_cic_met0-130  :     8338
+tree_sig_2HDMa_mA300_ma150_13TeV_cic_met0-130 :     1085
+tree_GluGluHToGG_13TeV_cic_met130 :       36
+
+Datasets :
+---------------------------------------------------------
+data_cic_met130                :        0
+data_cic_met0-130              :        0
+mc_cic_met130                  :        0
+mc_cic_met0-130                :        0
+sig_2HDMa_mA200_ma150_13TeV_cic_met130 :        0
+sig_2HDMa_mA200_ma150_13TeV_cic_met0-130 :        0
+sig_2HDMa_mA500_ma150_13TeV_cic_met130 :        0
+sig_2HDMa_mA500_ma150_13TeV_cic_met0-130 :        0
+sig_2HDMa_mA300_ma150_13TeV_cic_met130 :        0
+sig_2HDMa_mA300_ma150_13TeV_cic_met0-130 :        0
+sig_2HDMa_mA600_ma150_13TeV_cic_met130 :        0
+sig_2HDMa_mA600_ma150_13TeV_cic_met0-130 :        0
+sig_2HDMa_mA400_ma150_13TeV_cic_met130 :        0
+sig_2HDMa_mA400_ma150_13TeV_cic_met0-130 :        0
+GluGluHToGG_13TeV_cic_met130   :        0
+GluGluHToGG_13TeV_cic_met0-130 :        0
+VBFHToGG_13TeV_cic_met130      :        0
+VBFHToGG_13TeV_cic_met0-130    :        0
+VHToGG_13TeV_cic_met130        :        0
+VHToGG_13TeV_cic_met0-130      :        0
+ttHJetToGG_13TeV_cic_met130    :        0
+ttHJetToGG_13TeV_cic_met0-130  :        0
+mctruth_all_cic_met130         :        0
+mctruth_all_cic_met0-130       :        0
+template_pf_cic_met130         :        0
+template_pf_cic_met0-130       :        0
+
+Number of toys : 0
+
+--------------------------------------------------------------------------------------------------------------------------
+reached end of SetUP
+--------------------------------------------------------------------------------------------------------------------------
+runnning background fit
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+importing data_cic_met130 as data for cat met130
+workspace------------ NORM  = 64
+importing data_cic_met0-130 as data for cat met0-130
+workspace------------ NORM  = 26399
+
+
+fitting category :  met130
+
+component :  bkg
+model : pow
+shape source : data_cic_met130 64.0 70.0
+normalization source:  data_cic_met130 64.0
+  1) 0x7dcd700 RooRealVar:: pow_model_bkg_met130_lin = -2.63805 +/- 0.810975  L(-100 - 100) B(1)  "pow_model_bkg_met130_lin"
+Info in <TCanvas::Print>: eps file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/tmp_bkg_fit_bkg_met130.eps has been created
+Info in <TCanvas::SaveAs>: ROOT file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/bkg_fit_bkg_met130.root has been created
+None
+plotBkgFit called HERE 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDATA:  64.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Full Range:  64.8838468121  +/-  8.05505101238
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SIG:  6.54428915861  +/-  2.55818082993
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SB :  54.3721976737  +/-  7.37375058391
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ALPHA:  0.120360946193  +/-  0.0498004576576
+Plotting  model  bkg_met130 mgg None
+Plotting dataset
+Plotting pdf.... done
+N= 38
+blind0 = 500 and blind1 = 4000
+0
+105.0    107.0
+1
+107.0    109.0
+2
+109.0    111.0
+3
+111.0    113.0
+4
+113.0    115.0
+5
+115.0    117.0
+6
+117.0    119.0
+7
+119.0    121.0
+8
+121.0    123.0
+9
+123.0    125.0
+10
+125.0    127.0
+11
+127.0    129.0
+12
+129.0    131.0
+13
+131.0    133.0
+14
+133.0    135.0
+15
+135.0    137.0
+16
+137.0    139.0
+17
+139.0    141.0
+18
+141.0    143.0
+19
+143.0    145.0
+20
+145.0    147.0
+21
+147.0    149.0
+22
+149.0    151.0
+23
+151.0    153.0
+24
+153.0    155.0
+25
+155.0    157.0
+26
+157.0    159.0
+27
+159.0    161.0
+28
+161.0    163.0
+29
+163.0    165.0
+30
+165.0    167.0
+31
+167.0    169.0
+32
+169.0    171.0
+33
+171.0    173.0
+34
+173.0    175.0
+35
+175.0    177.0
+36
+177.0    179.0
+37
+179.0    181.0
+Making fit error bands... computing error band ... 0 105.0 107.0 3.30146640473 0.725462792904 0.725462792904
+computing error band ... 10 125.0 127.0 2.09232088505 0.274941649182 0.274941649182
+computing error band ... 20 145.0 147.0 1.41842458398 0.209631074925 0.209631074925
+computing error band ... 30 165.0 167.0 1.01087862962 0.224010545805 0.224010545805
+bands_met130.root
+done
+None
+Here 38
+blind0 and blind1  500     4000
+106.0    106.0
+108.0    108.0
+110.0    110.0
+112.0    112.0
+114.0    114.0
+116.0    116.0
+118.0    118.0
+120.0    120.0
+122.0    122.0
+124.0    124.0
+126.0    126.0
+128.0    128.0
+130.0    130.0
+132.0    132.0
+134.0    134.0
+136.0    136.0
+138.0    138.0
+140.0    140.0
+142.0    142.0
+144.0    144.0
+146.0    146.0
+148.0    148.0
+150.0    150.0
+152.0    152.0
+154.0    154.0
+156.0    156.0
+158.0    158.0
+160.0    160.0
+162.0    162.0
+164.0    164.0
+166.0    166.0
+168.0    168.0
+170.0    170.0
+172.0    172.0
+174.0    174.0
+176.0    176.0
+178.0    178.0
+180.0    180.0
+
+
+
+
+fitting category :  met0-130
+
+component :  bkg
+model : pow
+shape source : data_cic_met0-130 26399.0 28059.0
+normalization source:  data_cic_met0-130 26399.0
+  1) 0x7e7df70 RooRealVar:: pow_model_bkg_met0-130_lin = -4.00117 +/- 0.041752  L(-100 - 100) B(1)  "pow_model_bkg_met0-130_lin"
+Info in <TCanvas::Print>: eps file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/tmp_bkg_fit_bkg_met0-130.eps has been created
+Info in <TCanvas::SaveAs>: ROOT file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/bkg_fit_bkg_met0-130.root has been created
+None
+plotBkgFit called HERE 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDATA:  26399.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Full Range:  27129.1860669  +/-  164.709398842
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SIG:  2894.53333542  +/-  53.8008674226
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SB :  22399.1435579  +/-  149.663434271
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ALPHA:  0.129225178987  +/-  0.00255239650481
+Plotting  model  bkg_met0-130 mgg None
+Plotting dataset
+Plotting pdf.... done
+N= 38
+blind0 = 500 and blind1 = 4000
+0
+105.0    107.0
+1
+107.0    109.0
+2
+109.0    111.0
+3
+111.0    113.0
+4
+113.0    115.0
+5
+115.0    117.0
+6
+117.0    119.0
+7
+119.0    121.0
+8
+121.0    123.0
+9
+123.0    125.0
+10
+125.0    127.0
+11
+127.0    129.0
+12
+129.0    131.0
+13
+131.0    133.0
+14
+133.0    135.0
+15
+135.0    137.0
+16
+137.0    139.0
+17
+139.0    141.0
+18
+141.0    143.0
+19
+143.0    145.0
+20
+145.0    147.0
+21
+147.0    149.0
+22
+149.0    151.0
+23
+151.0    153.0
+24
+153.0    155.0
+25
+155.0    157.0
+26
+157.0    159.0
+27
+159.0    161.0
+28
+161.0    163.0
+29
+163.0    165.0
+30
+165.0    167.0
+31
+167.0    169.0
+32
+169.0    171.0
+33
+171.0    173.0
+34
+173.0    175.0
+35
+175.0    177.0
+36
+177.0    179.0
+37
+179.0    181.0
+Making fit error bands... computing error band ... 0 105.0 107.0 1806.7263116 18.2425255344 18.2425255344
+computing error band ... 10 125.0 127.0 904.54978039 5.61088618706 5.61088618706
+computing error band ... 20 145.0 147.0 501.600814149 4.09244731673 4.09244731673
+computing error band ... 30 165.0 167.0 300.072124986 3.70810086647 3.70810086647
+bands_met0-130.root
+done
+None
+Here 38
+blind0 and blind1  500     4000
+106.0    106.0
+108.0    108.0
+110.0    110.0
+112.0    112.0
+114.0    114.0
+116.0    116.0
+118.0    118.0
+120.0    120.0
+122.0    122.0
+124.0    124.0
+126.0    126.0
+128.0    128.0
+130.0    130.0
+132.0    132.0
+134.0    134.0
+136.0    136.0
+138.0    138.0
+140.0    140.0
+142.0    142.0
+144.0    144.0
+146.0    146.0
+148.0    148.0
+150.0    150.0
+152.0    152.0
+154.0    154.0
+156.0    156.0
+158.0    158.0
+160.0    160.0
+162.0    162.0
+164.0    164.0
+166.0    166.0
+168.0    168.0
+170.0    170.0
+172.0    172.0
+174.0    174.0
+176.0    176.0
+178.0    178.0
+180.0    180.0
+
+
+
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529_MonoHgg.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
+generating signal dataset
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 0.886427843012
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA200_ma150_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 59.6123
+RooHistPdf::model_signal_sig_2HDMa_mA200_ma150_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 156.4
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 2.57941700774
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA200_ma150_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 45.0046
+RooHistPdf::model_signal_sig_2HDMa_mA200_ma150_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 172.758
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/sig_2HDMa_mA200_ma150_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 5.91727502504
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA500_ma150_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 48.7
+RooHistPdf::model_signal_sig_2HDMa_mA500_ma150_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 179.961
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 2.16948311962
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA500_ma150_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 39.1055
+RooHistPdf::model_signal_sig_2HDMa_mA500_ma150_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 192.68
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/sig_2HDMa_mA500_ma150_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 0.439657062292
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA300_ma150_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 40.2136
+RooHistPdf::model_signal_sig_2HDMa_mA300_ma150_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 229.806
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 12.9219888421
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA300_ma150_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 49.755
+RooHistPdf::model_signal_sig_2HDMa_mA300_ma150_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 159.846
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/sig_2HDMa_mA300_ma150_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 3.55814275471
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA600_ma150_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 45.64
+RooHistPdf::model_signal_sig_2HDMa_mA600_ma150_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 177.913
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 1.1208477458
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA600_ma150_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 57.4527
+RooHistPdf::model_signal_sig_2HDMa_mA600_ma150_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 159.572
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/sig_2HDMa_mA600_ma150_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 5.94092625612
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA400_ma150_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 38.0938
+RooHistPdf::model_signal_sig_2HDMa_mA400_ma150_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 170.985
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+Integral signal pdf    : 8.27380431211
+plotBkgFit called HERE 9
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_signal_sig_2HDMa_mA400_ma150_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 50.7493
+RooHistPdf::model_signal_sig_2HDMa_mA400_ma150_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 172.639
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/sig_2HDMa_mA400_ma150_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
+generating SM higgs datasets
+
+GluGluHToGG_13TeV
+VBFHToGG_13TeV
+VHToGG_13TeV
+ttHJetToGG_13TeV
+GluGluHToGG_13TeV
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+GluGluHToGG_13TeV_cic_met130
+Integral higgs pdf    : 4.58958333601
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_GluGluHToGG_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 0
+RooHistPdf::model_higgs_GluGluHToGG_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 68.1835
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+GluGluHToGG_13TeV_cic_met0-130
+Integral higgs pdf    : 15510.1629835
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_GluGluHToGG_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 53.7165
+RooHistPdf::model_higgs_GluGluHToGG_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 170.872
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/GluGluHToGG_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+VBFHToGG_13TeV
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+VBFHToGG_13TeV_cic_met130
+Integral higgs pdf    : 0.152900757592
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_VBFHToGG_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 0
+RooHistPdf::model_higgs_VBFHToGG_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 236.906
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+VBFHToGG_13TeV_cic_met0-130
+Integral higgs pdf    : 190.198074271
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_VBFHToGG_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 51.6122
+RooHistPdf::model_higgs_VBFHToGG_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 166.375
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/VBFHToGG_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+VHToGG_13TeV
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+VHToGG_13TeV_cic_met130
+Integral higgs pdf    : 17.0755449141
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_VHToGG_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 52.2294
+RooHistPdf::model_higgs_VHToGG_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 138.83
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+VHToGG_13TeV_cic_met0-130
+Integral higgs pdf    : 109.183942687
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_VHToGG_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 54.5866
+RooHistPdf::model_higgs_VHToGG_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 162.251
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/VHToGG_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+ttHJetToGG_13TeV
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+ttHJetToGG_13TeV_cic_met130
+Integral higgs pdf    : 0.154408952066
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_ttHJetToGG_13TeV_met130_energyScalemet130Up[ pdfObs=(mgg) ] = 4.51222
+RooHistPdf::model_higgs_ttHJetToGG_13TeV_met130_energyScalemet130Down[ pdfObs=(mgg) ] = 142.277
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+ttHJetToGG_13TeV_cic_met0-130
+Integral higgs pdf    : 0.19377657905
+computing energy scale
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+RooHistPdf::model_higgs_ttHJetToGG_13TeV_met0-130_energyScalemet0-130Up[ pdfObs=(mgg) ] = 34.9045
+RooHistPdf::model_higgs_ttHJetToGG_13TeV_met0-130_energyScalemet0-130Down[ pdfObs=(mgg) ] = 215.278
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/ttHJetToGG_13TeV.root
+--------------------------------------------------------------------------------------------------------------------------
+saving output
+
+writing workspace ... done
+--------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------
+generating datacard(s)
+--------------------------------------------------------------------------------------------------------------------------
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/dataCard_sig_2HDMa_mA200_ma150_13TeV.txt
+
+signal        : sig_2HDMa_mA200_ma150_13TeV
+ggh           : GluGluHToGG_13TeV
+vbf           : VBFHToGG_13TeV
+vh            : VHToGG_13TeV
+tth           : ttHJetToGG_13TeV
+signal     ws : sig_2HDMa_mA200_ma150_13TeV.root
+background ws : ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529_MonoHgg.root
+ggh        ws : GluGluHToGG_13TeV.root
+vbf        ws : VBFHToGG_13TeV.root
+vh         ws : VHToGG_13TeV.root
+tth        ws : ttHJetToGG_13TeV.root
+datacard      : dataCard_sig_2HDMa_mA200_ma150_13TeV.txt
+
+[u'met0-130']
+[u'met130']
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/dataCard_sig_2HDMa_mA500_ma150_13TeV.txt
+
+signal        : sig_2HDMa_mA500_ma150_13TeV
+ggh           : GluGluHToGG_13TeV
+vbf           : VBFHToGG_13TeV
+vh            : VHToGG_13TeV
+tth           : ttHJetToGG_13TeV
+signal     ws : sig_2HDMa_mA500_ma150_13TeV.root
+background ws : ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529_MonoHgg.root
+ggh        ws : GluGluHToGG_13TeV.root
+vbf        ws : VBFHToGG_13TeV.root
+vh         ws : VHToGG_13TeV.root
+tth        ws : ttHJetToGG_13TeV.root
+datacard      : dataCard_sig_2HDMa_mA500_ma150_13TeV.txt
+
+[u'met0-130']
+[u'met130']
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/dataCard_sig_2HDMa_mA300_ma150_13TeV.txt
+
+signal        : sig_2HDMa_mA300_ma150_13TeV
+ggh           : GluGluHToGG_13TeV
+vbf           : VBFHToGG_13TeV
+vh            : VHToGG_13TeV
+tth           : ttHJetToGG_13TeV
+signal     ws : sig_2HDMa_mA300_ma150_13TeV.root
+background ws : ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529_MonoHgg.root
+ggh        ws : GluGluHToGG_13TeV.root
+vbf        ws : VBFHToGG_13TeV.root
+vh         ws : VHToGG_13TeV.root
+tth        ws : ttHJetToGG_13TeV.root
+datacard      : dataCard_sig_2HDMa_mA300_ma150_13TeV.txt
+
+[u'met0-130']
+[u'met130']
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/dataCard_sig_2HDMa_mA600_ma150_13TeV.txt
+
+signal        : sig_2HDMa_mA600_ma150_13TeV
+ggh           : GluGluHToGG_13TeV
+vbf           : VBFHToGG_13TeV
+vh            : VHToGG_13TeV
+tth           : ttHJetToGG_13TeV
+signal     ws : sig_2HDMa_mA600_ma150_13TeV.root
+background ws : ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529_MonoHgg.root
+ggh        ws : GluGluHToGG_13TeV.root
+vbf        ws : VBFHToGG_13TeV.root
+vh         ws : VHToGG_13TeV.root
+tth        ws : ttHJetToGG_13TeV.root
+datacard      : dataCard_sig_2HDMa_mA600_ma150_13TeV.txt
+
+[u'met0-130']
+[u'met130']
+ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/dataCard_sig_2HDMa_mA400_ma150_13TeV.txt
+
+signal        : sig_2HDMa_mA400_ma150_13TeV
+ggh           : GluGluHToGG_13TeV
+vbf           : VBFHToGG_13TeV
+vh            : VHToGG_13TeV
+tth           : ttHJetToGG_13TeV
+signal     ws : sig_2HDMa_mA400_ma150_13TeV.root
+background ws : ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529_MonoHgg.root
+ggh        ws : GluGluHToGG_13TeV.root
+vbf        ws : VBFHToGG_13TeV.root
+vh         ws : VHToGG_13TeV.root
+tth        ws : ttHJetToGG_13TeV.root
+datacard      : dataCard_sig_2HDMa_mA400_ma150_13TeV.txt
+
+[u'met0-130']
+[u'met130']
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+runnning background fit
+
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+How come I reached here
+name = mgg & xbins = array('d', [105.0, 107.0, 109.0, 111.0, 113.0, 115.0, 117.0, 119.0, 121.0, 123.0, 125.0, 127.0, 129.0, 131.0, 133.0, 135.0, 137.0, 139.0, 141.0, 143.0, 145.0, 147.0, 149.0, 151.0, 153.0, 155.0, 157.0, 159.0, 161.0, 163.0, 165.0, 167.0, 169.0, 171.0, 173.0, 175.0, 177.0, 179.0, 181.0]) 
+importing data_cic_met130 as data for cat met130
+plotting------------ NORM  = 64
+importing data_cic_met0-130 as data for cat met0-130
+plotting------------ NORM  = 26399
+
+
+fitting category :  met130
+
+component :  bkg
+model : pow
+shape source : data_cic_met130 64.0 70.0
+normalization source:  data_cic_met130 64.0
+  1) 0xfc61b20 RooRealVar:: pow_model_bkg_met130_lin = -2.63124 +/- 0.810844  L(-100 - 100) B(1)  "pow_model_bkg_met130_lin"
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met130.root is not writable
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-0.430455)
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-0.430455)
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-0.430455)
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-0.430455)
+Info in <TCanvas::Print>: eps file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/tmp_bkg_fit_bkg_met130.eps has been created
+Info in <TCanvas::SaveAs>: ROOT file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/bkg_fit_bkg_met130.root has been created
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met130.root is not writable
+None
+plotBkgFit called HERE 6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDATA:  64.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Full Range:  64.8794115542  +/-  8.05477569857
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SIG:  6.5413169042  +/-  2.55759983269
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SB :  54.3736529636  +/-  7.37384926369
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ALPHA:  0.120303061275  +/-  0.0497865285243
+Plotting  model  bkg_met130 mgg None
+Plotting dataset
+Plotting pdf.... done
+N= 38
+0
+105.0    107.0
+1
+107.0    109.0
+2
+109.0    111.0
+3
+111.0    113.0
+4
+113.0    115.0
+5
+115.0    117.0
+6
+117.0    119.0
+7
+119.0    121.0
+8
+121.0    123.0
+9
+123.0    125.0
+10
+125.0    127.0
+11
+127.0    129.0
+12
+129.0    131.0
+13
+131.0    133.0
+14
+133.0    135.0
+15
+135.0    137.0
+16
+137.0    139.0
+17
+139.0    141.0
+18
+141.0    143.0
+19
+143.0    145.0
+20
+145.0    147.0
+21
+147.0    149.0
+22
+149.0    151.0
+23
+151.0    153.0
+24
+153.0    155.0
+25
+155.0    157.0
+26
+157.0    159.0
+27
+159.0    161.0
+28
+161.0    163.0
+29
+163.0    165.0
+30
+165.0    167.0
+31
+167.0    169.0
+32
+169.0    171.0
+33
+171.0    173.0
+34
+173.0    175.0
+35
+175.0    177.0
+36
+177.0    179.0
+37
+179.0    181.0
+Making fit error bands... computing error band ... 0 105.0 107.0 3.29645252192 0.725487852341 0.725487852341
+computing error band ... 10 125.0 127.0 2.09160471767 0.274937785094 0.274937785094
+computing error band ... 20 145.0 147.0 1.41936272892 0.209628071042 0.209628071042
+computing error band ... 30 165.0 167.0 1.01243212192 0.224003697656 0.224003697656
+bands_met130.root
+done
+None
+Here 38
+106.0    106.0
+108.0    108.0
+110.0    110.0
+112.0    112.0
+114.0    114.0
+116.0    116.0
+118.0    118.0
+120.0    120.0
+122.0    122.0
+124.0    124.0
+126.0    126.0
+128.0    128.0
+130.0    130.0
+132.0    132.0
+134.0    134.0
+136.0    136.0
+138.0    138.0
+140.0    140.0
+142.0    142.0
+144.0    144.0
+146.0    146.0
+148.0    148.0
+150.0    150.0
+152.0    152.0
+154.0    154.0
+156.0    156.0
+158.0    158.0
+160.0    160.0
+162.0    162.0
+164.0    164.0
+166.0    166.0
+168.0    168.0
+170.0    170.0
+172.0    172.0
+174.0    174.0
+176.0    176.0
+178.0    178.0
+180.0    180.0
+-------------------------------------> ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529
+-------------------------------------------> 64.0 20.0755449141 0.686319610718
+
+
+plotBkgFit called HERE 7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDATA:  64.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Full Range:  64.8794115542  +/-  8.05477569857
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SIG:  6.5413169042  +/-  2.55759983269
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SB :  54.3736529636  +/-  7.37384926369
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ALPHA:  0.120303061275  +/-  0.0497865285243
+Plotting  model  bkg_met130_lin mgg None
+Plotting dataset
+Plotting pdf.... done
+N= 38
+0
+105.0    107.0
+1
+107.0    109.0
+2
+109.0    111.0
+3
+111.0    113.0
+4
+113.0    115.0
+5
+115.0    117.0
+6
+117.0    119.0
+7
+119.0    121.0
+8
+121.0    123.0
+9
+123.0    125.0
+10
+125.0    127.0
+11
+127.0    129.0
+12
+129.0    131.0
+13
+131.0    133.0
+14
+133.0    135.0
+15
+135.0    137.0
+16
+137.0    139.0
+17
+139.0    141.0
+18
+141.0    143.0
+19
+143.0    145.0
+20
+145.0    147.0
+21
+147.0    149.0
+22
+149.0    151.0
+23
+151.0    153.0
+24
+153.0    155.0
+25
+155.0    157.0
+26
+157.0    159.0
+27
+159.0    161.0
+28
+161.0    163.0
+29
+163.0    165.0
+30
+165.0    167.0
+31
+167.0    169.0
+32
+169.0    171.0
+33
+171.0    173.0
+34
+173.0    175.0
+35
+175.0    177.0
+36
+177.0    179.0
+37
+179.0    181.0
+Making fit error bands... computing error band ... 0 105.0 107.0 3.29645252192 0.725489818181 0.725489818181
+computing error band ... 10 125.0 127.0 2.09160471767 0.274937785147 0.274937785147
+computing error band ... 20 145.0 147.0 1.41936272892 0.209628409534 0.209628409534
+computing error band ... 30 165.0 167.0 1.01243212192 0.224002865787 0.224002865787
+bands_met130.root
+done
+None
+Here 38
+106.0    106.0
+108.0    108.0
+110.0    110.0
+112.0    112.0
+114.0    114.0
+116.0    116.0
+118.0    118.0
+120.0    120.0
+122.0    122.0
+124.0    124.0
+126.0    126.0
+128.0    128.0
+130.0    130.0
+132.0    132.0
+134.0    134.0
+136.0    136.0
+138.0    138.0
+140.0  Info in <TCanvas::Print>: eps file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/tmp_bkg_fit_bkg_met130_lin.eps has been created
+Info in <TCanvas::SaveAs>: ROOT file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/bkg_fit_bkg_met130_lin.root has been created
+  140.0
+142.0    142.0
+144.0    144.0
+146.0    146.0
+148.0    148.0
+150.0    150.0
+152.0    152.0
+154.0    154.0
+156.0    156.0
+158.0    158.0
+160.0    160.0
+162.0    162.0
+164.0    164.0
+166.0    166.0
+168.0    168.0
+170.0    170.0
+172.0    172.0
+174.0    174.0
+176.0    176.0
+178.0    178.0
+180.0    180.0
+-------------------------------------> ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529
+-------------------------------------------> 64.0 20.0755449141 0.686319610718
+
+
+
+fitting category :  met0-130
+
+component :  bkg
+model : pow
+shape source : data_cic_met0-130 26399.0 28059.0
+normalization source:  data_cic_met0-130 26399.0
+  1) 0x105d2810 RooRealVar:: pow_model_bkg_met0-130_lin = -3.99626 +/- 0.0417435  L(-100 - 100) B(1)  "pow_model_bkg_met0-130_lin"
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met0-130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met0-130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met0-130.root is not writable
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-1.891141)
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-1.891141)
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-1.891141)
+Error in <THistPainter::PaintInit>: log scale requested with a negative argument (-1.891141)
+Info in <TCanvas::Print>: eps file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/tmp_bkg_fit_bkg_met0-130.eps has been created
+Info in <TCanvas::SaveAs>: ROOT file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/bkg_fit_bkg_met0-130.root has been created
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met0-130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met0-130.root is not writable
+Error in <TFile::WriteTObject>: Directory /afs/cern.ch/work/d/dbhowmik/public/Analysis/MHgg/2017Analysis/Fit_DiPhotonTools/CMSSW_9_4_9/src/diphotons/Analysis/macros/2017_2HDMa_testModCuts/bands_met0-130.root is not writable
+None
+plotBkgFit called HERE 6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDATA:  26399.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Full Range:  27127.8688681  +/-  164.70540024
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SIG:  2894.01727494  +/-  53.796071185
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SB :  22398.9068456  +/-  149.662643454
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ALPHA:  0.129203505104  +/-  0.00255217144225
+Plotting  model  bkg_met0-130 mgg None
+Plotting dataset
+Plotting pdf.... done
+N= 38
+0
+105.0    107.0
+1
+107.0    109.0
+2
+109.0    111.0
+3
+111.0    113.0
+4
+113.0    115.0
+5
+115.0    117.0
+6
+117.0    119.0
+7
+119.0    121.0
+8
+121.0    123.0
+9
+123.0    125.0
+10
+125.0    127.0
+11
+127.0    129.0
+12
+129.0    131.0
+13
+131.0    133.0
+14
+133.0    135.0
+15
+135.0    137.0
+16
+137.0    139.0
+17
+139.0    141.0
+18
+141.0    143.0
+19
+143.0    145.0
+20
+145.0    147.0
+21
+147.0    149.0
+22
+149.0    151.0
+23
+151.0    153.0
+24
+153.0    155.0
+25
+155.0    157.0
+26
+157.0    159.0
+27
+159.0    161.0
+28
+161.0    163.0
+29
+163.0    165.0
+30
+165.0    167.0
+31
+167.0    169.0
+32
+169.0    171.0
+33
+171.0    173.0
+34
+173.0    175.0
+35
+175.0    177.0
+36
+177.0    179.0
+37
+179.0    181.0
+Making fit error bands... computing error band ... 0 105.0 107.0 1805.01970256 18.2413901327 18.2413901327
+computing error band ... 10 125.0 127.0 904.464257992 5.61086124707 5.61086124707
+computing error band ... 20 145.0 147.0 501.917038791 4.09217295392 4.09217295392
+computing error band ... 30 165.0 167.0 300.45097867 3.7079701703 3.7079701703
+bands_met0-130.root
+done
+None
+Here 38
+106.0    106.0
+108.0    108.0
+110.0    110.0
+112.0    112.0
+114.0    114.0
+116.0    116.0
+118.0    118.0
+120.0    120.0
+122.0    122.0
+124.0    124.0
+126.0    126.0
+128.0    128.0
+130.0    130.0
+132.0    132.0
+134.0    134.0
+136.0    136.0
+138.0    138.0
+140.0    140.0
+142.0    142.0
+144.0    144.0
+146.0    146.0
+148.0    148.0
+150.0    150.0
+152.0    152.0
+154.0    154.0
+156.0    156.0
+158.0    158.0
+160.0    160.0
+162.0    162.0
+164.0    164.0
+166.0    166.0
+168.0    168.0
+170.0    170.0
+172.0    172.0
+174.0    174.0
+176.0    176.0
+178.0    178.0
+180.0    180.0
+-------------------------------------> ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529
+-------------------------------------------> 26399.0 112.183942687 0.995750447264
+
+
+plotBkgFit called HERE 7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~NDATA:  26399.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Full Range:  27127.8688681  +/-  164.70540024
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SIG:  2894.01727494  +/-  53.796071185
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Integral value SB :  22398.9068456  +/-  149.662643454
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ALPHA:  0.129203505104  +/-  0.00255217144225
+Plotting  model  bkg_met0-130_lin mgg None
+Plotting dataset
+Plotting pdf.... done
+N= 38
+0
+105.0    107.0
+1
+107.0    109.0
+2
+109.0    111.0
+3
+111.0    113.0
+4
+113.0    115.0
+5
+115.0    117.0
+6
+117.0    119.0
+7
+119.0    121.0
+8
+121.0    123.0
+9
+123.0    125.0
+10
+125.0    127.0
+11
+127.0    129.0
+12
+129.0    131.0
+13
+131.0    133.0
+14
+133.0    135.0
+15
+135.0    137.0
+16
+137.0    139.0
+17
+139.0    141.0
+18
+141.0    143.0
+19
+143.0    145.0
+20
+145.0    147.0
+21
+147.0    149.0
+22
+149.0    151.0
+23
+151.0    153.0
+24
+153.0    155.0
+25
+155.0    157.0
+26
+157.0    159.0
+27
+159.0    161.0
+28
+161.0    163.0
+29
+163.0    165.0
+30
+165.0    167.0
+31
+167.0    169.0
+32
+169.0    171.0
+33
+171.0    173.0
+34
+173.0    175.0
+35
+175.0    177.0
+36
+177.0    179.0
+37
+179.0    181.0
+Making fit error bands... computing error band ... 0 105.0 107.0 1805.01970256 18.2415561087 18.2415561087
+computing error band ... 10 125.0 127.0 904.464257992 5.61080993041 5.61080993041
+computing error band ... 20 145.0 147.0 501.917038791 4.09217411634 4.09217411634
+computing error band ... 30 165.0 167.0 300.45097867 3.70798098124 3.70798098124
+bands_met0-130.root
+done
+None
+Here 38
+106.0    106.0
+108.0    108.0
+110.0    110.0
+112.0    112.0
+114.0    114.0
+116.0    116.0
+118.0    118.0
+120.0    120.0
+122.0    122.0
+124.0    124.0
+126.0    126.0
+128.0    128.0
+130.0    130.0
+132.0    132.0
+134.0    134.0
+136.0    136.0
+138.0    138.0
+140.0    1Info in <TCanvas::Print>: eps file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/tmp_bkg_fit_bkg_met0-130_lin.eps has been created
+Info in <TCanvas::SaveAs>: ROOT file /eos/user/d/dbhowmik/www/Analysis/Fit_DiPhotonTools/2017_2HDMa_testModCuts/ntuples4fit_pho_newSig_test_met0_met130/ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529/bkg_fit_bkg_met0-130_lin.root has been created
+40.0
+142.0    142.0
+144.0    144.0
+146.0    146.0
+148.0    148.0
+150.0    150.0
+152.0    152.0
+154.0    154.0
+156.0    156.0
+158.0    158.0
+160.0    160.0
+162.0    162.0
+164.0    164.0
+166.0    166.0
+168.0    168.0
+170.0    170.0
+172.0    172.0
+174.0    174.0
+176.0    176.0
+178.0    178.0
+180.0    180.0
+-------------------------------------> ntuples4fit_pho_newSig_test_met0_met130_cic_default_shapes_lumi_41.529
+-------------------------------------------> 26399.0 112.183942687 0.995750447264
+
+
