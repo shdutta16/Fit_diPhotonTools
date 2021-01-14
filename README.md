@@ -5,10 +5,12 @@ Steps to run:
 2. Go to src directory
 
 3. Clone the Fit_diPhotonTools repo
-[... src]$ git clone https://github.com/shdutta16/Fit_diPhotonTools
+
+   [... src]$ git clone https://github.com/shdutta16/Fit_diPhotonTools
 
 4. Move the contents of the directory Fit_diPhotonTools to the src directory
-[... src]$ mv Fit_diPhotonTools/* ./
+
+   [... src]$ mv Fit_diPhotonTools/* ./
  
 5. Build using scram 
 
